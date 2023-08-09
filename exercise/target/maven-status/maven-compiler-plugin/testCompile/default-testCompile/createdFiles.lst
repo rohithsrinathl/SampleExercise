@@ -1,0 +1,4 @@
+com\assess\definitions\ProcessDataStepDef.class
+com\assess\definitions\UIStepDef.class
+com\asses\runner\CucumberRunner.class
+com\assess\definitions\APIStepDef.class
